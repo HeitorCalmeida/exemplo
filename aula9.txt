@@ -1,2 +1,5 @@
 Residencia 2022-1 - logica de programacao
+<<<<<<< HEAD
 teste de conflito
+=======
+
